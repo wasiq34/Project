@@ -15,5 +15,9 @@ The goal was to uncover performance insights such as:
 🧀 Ingredient popularity and customization patterns
 
 It was a great experience combining data extraction, analysis, and visual storytelling. Looking forward to applying these skills to real-world business problems!
-![Screenshot 2025-06-05 124447](https://github.com/user-attachments/assets/bee8a816-46ed-421f-8a92-456b09a70678)
-![Screenshot 2025-06-05 124416](https://github.com/user-attachments/assets/940031c6-17ab-4348-88ff-42b3e1a188f0)
+Home page --
+![Home](https://github.com/user-attachments/assets/dd137765-06d0-49ad-bc70-a3e764c5987c)
+Data Insights -- 
+![Insights](https://github.com/user-attachments/assets/5e072301-147b-4b9d-90ce-d59632ef8c27)
+
+
